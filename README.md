@@ -8,4 +8,4 @@
 
 <br>
 
-[Live Link]("http://localhost:3000/")
+[Live Link](https://the-react-todos.netlify.app/)
