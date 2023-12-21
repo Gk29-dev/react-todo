@@ -17,7 +17,7 @@ function App() {
     });
    
     updatedTask(newTaskLists);
-  //  console.log(updatedTaskLists);
+    console.log(updatedTaskLists);
 
   }
 
